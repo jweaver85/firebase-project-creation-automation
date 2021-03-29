@@ -8,3 +8,4 @@ Automated script for UNIX environements to:
 
 Requirements not automatically resolved:
   1. node.js
+  2. firebase-tools ```npm install -g firebase-tools```
